@@ -2,7 +2,7 @@
 🔭 I’m currently working on MyBlog<br>👯 I’m looking to collaborate on Cool Projects<br>🤝 I’m looking for help with a project<br>🌱 I’m currently learning java<br>💬 Ask me about anything<br>⚡ Fun fact im the man of god
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibe_team2023) 
 
 # 💻 Tech Stack:
